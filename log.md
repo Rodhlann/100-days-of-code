@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: March 19, 2018
+
+**Today's Progress**: Began setting up the database for my project. Created matching models and did quite a bit of research in to connecting the two. 
+
+**Thoughts:**: I've never done very much database work, especially in C#. And the majority of that has been set up by other people. Digging in to this has been a pretty big hurdle, especially since there seems to be so many different ways to set up a DB with C#. I think using the standard MS SQL Server/SSMS combo is pretty much the way to go because of this. I'm hoping that creating the entity layer is simple enough so I can quickly start building out my controllers. I probably won't create a service layer for such a small project, though I know that from a best practices perspective that's probably the way to go. Tomorrow I would really like to get at least one postman call through to add a new user. That's gonna be the goal.  
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
+
 ### Day 0: March 18, 2018
 
 **Today's Progress**: Created a new C# project and began following a tutorial to figure out how to put together an API in .NET Core. 

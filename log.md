@@ -8,7 +8,7 @@
 
 **Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
 
-### Day 1: March 19, 2018
+### Day 2: March 19, 2018
 
 **Today's Progress**: Began setting up the database for my project. Created matching models and did quite a bit of research in to connecting the two. 
 
@@ -16,7 +16,7 @@
 
 **Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
 
-### Day 0: March 18, 2018
+### Day 1: March 18, 2018
 
 **Today's Progress**: Created a new C# project and began following a tutorial to figure out how to put together an API in .NET Core. 
 

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: March 21, 2018
+
+**Today's Progress**: Really began digging into the Angular functionality that I will need for this project. Got a good active/complete workflow and the todo editing experience is pretty solid.
+
+**Thoughts:**: I'm still not sure I'm sold on Angular yet. It's way better than AngularJs so far, but I just really wish it was as straighforward as React. I'll have to see how I feel once I've integrated live data. As for the app itself, the general workflow is nice and I'm happy with it, but I really want to make something visually appealing, and I just don't know how to go about doing that right now. Really going to have to start researching other TODO apps to see what styles/workflows are interesting and attractive.
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 1: March 19, 2018
 
 **Today's Progress**: Began setting up the database for my project. Created matching models and did quite a bit of research in to connecting the two. 

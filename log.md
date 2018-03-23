@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: March 22, 2018
+
+**Today's Progress**: Went ahead and put together the base REST calls for the server. Still need to set up the server side endpoints, but I'm having a lot more fun doing the UI right now, so I'm going to continue with that until I feel I can't get any further without live data. Haven't tested the endpoints yet, but I'm fairly certain they won't work in their current state. 
+
+**Thoughts:**: Not really sure how I feel about the rxJs/Http service setup that Angular uses. I really just wish it was as simple as axios or fetch from React. I have heard great things about rxJs in the past, but I'm not really seeing the benefit of it so far. On a more high level note, I really need to be better about restricting the time I'm taking to code per day. I'm really feeling myself potentially beginning to burn out, and want to make sure I can continue coding for the entirety of my 100 day stretch. Definitely need to stop staying up so late to code!!!
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 4: March 21, 2018
 
 **Today's Progress**: Really began digging into the Angular functionality that I will need for this project. Got a good active/complete workflow and the todo editing experience is pretty solid.

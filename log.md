@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: March 23, 2018
+
+**Today's Progress**: Continued work on the UI app. Added a User model and service and began shaping the application styles up a little differently. 
+
+**Thoughts:**: Decided I sort of want this to be a mobile app. Or at least mobile ready. Ended up messing with CSS FOREVER which was pretty frustrating. Really hoping there's a way to get a grasp on that language to a point where I feel like I know what I'm doing. Otherwise I'm happy with where the UI app is for now. I think it's time to start working on the back end again. At the very least I think I should do that just to avoid burning out on the Angular, or more specifically CSS. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 5: March 22, 2018
 
 **Today's Progress**: Went ahead and put together the base REST calls for the server. Still need to set up the server side endpoints, but I'm having a lot more fun doing the UI right now, so I'm going to continue with that until I feel I can't get any further without live data. Haven't tested the endpoints yet, but I'm fairly certain they won't work in their current state. 

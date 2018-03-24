@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 24, 2018
+
+**Today's Progress**: Split the growing UI application up into several components and gave the user the ability to add new todos.
+
+**Thoughts:**: I still really hate CSS, but I'm hoping I can get some input from friends on how to design the app better. It's in a good working state, but I'd like it to be attractive to the eye and easy to use. Angular is kind of growing on me. I still feel like it's a little heavy, in that I could have done all of this in half the time with React, but it's not terrible. I'm sure I will come to find it's nice nuances as I continue to dig into the functionality. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 6: March 23, 2018
 
 **Today's Progress**: Continued work on the UI app. Added a User model and service and began shaping the application styles up a little differently. 

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8 March 25, 2018
+
+**Today's Progress**: Mostly just ended up drawing up my mockups for how I would like the final UI to work. Sort of got stuck in a loop of not knowing how to implement some functionality that boiled down to me not really having a vision for the UI, but I think that's been resolved. Did a little work to start gearing the backend for communication with the front. 
+
+**Thoughts:**: Really came to a strong conclusion today that I have no idea how to build UI apps that are enjoyable to use and look at. That sort of sparked a need to go and draw out the application as I want it to be. I think that this will at least put me on track to make something I'm happy with. A friend of mine suggested a few libraries for helping with building UIs, which I might look in to. I feel like those are sort of cheating, when it comes down to it, because they take care of the layer of CSS skills that I've been avoiding. One of them, *Material.js*, seems pretty cool though, because it has a gallery functionality that allows you to track your iterations on the UI and easily get feedback from people about that. The feedback concept is something that I really like. I think I definitely have the ability to be a great designer for web apps, I just don't have the knowledge or context to get there at the moment. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 7: March 24, 2018
 
 **Today's Progress**: Split the growing UI application up into several components and gave the user the ability to add new todos.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9 March 26, 2018
+
+**Today's Progress**: Sat down with a friend today to talk about CSS and how to fix the crap I'd been writing. I think I learned a lot and was able to use my new knowledge to create a UI I'm much more comfortable with. Today was 100% UI/CSS refactoring. 
+
+**Thoughts:**: CSS is annoying, but knowing that I can do a CSS reset is super useful. Having to work around someone else's styles just makes everything way more frustrating. I'm really excited about the new direction the UI is taking and I can't wait to implement the rest of it in the same style. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 8 March 25, 2018
 
 **Today's Progress**: Mostly just ended up drawing up my mockups for how I would like the final UI to work. Sort of got stuck in a loop of not knowing how to implement some functionality that boiled down to me not really having a vision for the UI, but I think that's been resolved. Did a little work to start gearing the backend for communication with the front. 

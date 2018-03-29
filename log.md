@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 11 March 28, 2018
+
+**Today's Progress**: Completely built out the category workflow in the UI. The user can now add/select categories and see the filtered values on the main page. Also added my first CSS animation! 
+
+**Thoughts:**: I'm getting more in the flow of the Angular process now, which is nice. The interesting thing about that, though, is that I feel that my experience with React has actually made me a better Angular developer. I did quite a bit with Angularjs for a previous project at work, and I can just cringe at all the terrible code I wrote, but now I feel that my workflow and understanding of how front end applications should behave is much better. I give that credit to react/redux. I'm also feeling much more comfortable with CSS now. I'm still sort of frustrated by it, but I think that I have the fundamentals of how it SHOULD work down, which will hopefully help me as I move forward.
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
+### Day 10 March 27, 2018
+
+**Today's Progress**: Spent the entire time just looking up CSS animation information
+
+**Thoughts:**: I'd really like to add more CSS animations to the application. I feel like they make an application feel more modern, but I want to be able to add them without disturbing the user workflow! I guess I'll just have to tinker. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 9 March 26, 2018
 
 **Today's Progress**: Sat down with a friend today to talk about CSS and how to fix the crap I'd been writing. I think I learned a lot and was able to use my new knowledge to create a UI I'm much more comfortable with. Today was 100% UI/CSS refactoring. 

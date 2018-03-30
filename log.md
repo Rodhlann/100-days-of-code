@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12 March 29, 2018
+
+**Today's Progress**: Talked more about CSS and learned a few things about UX. Trying to make the app usable, but trying to also strike a balance for what I think looks good, since I'm really gonna be the only user. Also picked up my functional programming book for a bit. 
+
+**Thoughts:**: Eventually I need to work on the backend. Sort of getting burnt out on the front end work. I really want to finish this project up soon so I can start digging back into my functional programming learning. I think that's the direction I really want to go in my learning for a bit. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 11 March 28, 2018
 
 **Today's Progress**: Completely built out the category workflow in the UI. The user can now add/select categories and see the filtered values on the main page. Also added my first CSS animation! 

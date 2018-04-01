@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14-15 March 31-April 1, 2018
+
+**Today's Progress**: Spent the last two days troubleshooting the Sql Server connection to my application. After quite a bit of poking and research I finally got data all the way from the DB to the front end! Very exciting. Next I will be creating methods to add/update/delete todos. After that I will be adding the User functionality, which will pretty much close up all the MVP work I need to do for the project!
+
+**Thoughts:**: I think the most frustrating thing so far about using C#/.NET is the sheer amount of information there is for the platform. There is just way to much. And it seems that things change/update so frequently that there's a million outdated/deprecated ways to do something wrong, but only a few ways to do it right in the current version of .NET. This creates an extremely frustrating development experience. When it works, it works, though, and at the end of the day that's really all I can hope for. Really happy with how far I've come on this project, and I'm sure that the things I have learned so far will help me a lot at my new job!
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
+
 ### Day 13 March 30, 2018
 
 **Today's Progress**: Finally got the backend and frontend talking! After some CORS issues figured out everything is working as expected. Very excited! 

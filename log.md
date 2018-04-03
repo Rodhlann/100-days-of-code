@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16 April 2, 2018
+
+**Today's Progress**: Create remaining database calls on server side. Will test them out tomorrow. 
+
+**Thoughts:**: Getting to a low point with my motivation to finish this project. I think tomorrow I'll be able to see the fruit of my labor and that should reinvigorate me a bit! 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
+
 ### Day 14-15 March 31-April 1, 2018
 
 **Today's Progress**: Spent the last two days troubleshooting the Sql Server connection to my application. After quite a bit of poking and research I finally got data all the way from the DB to the front end! Very exciting. Next I will be creating methods to add/update/delete todos. After that I will be adding the User functionality, which will pretty much close up all the MVP work I need to do for the project!

@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 16 April 3-4, 2018
+### Day 17-18 April 3-4, 2018
 
 **Today's Progress**: Spent the 3rd reading some more about recent updates to Javascript. Actually learned some pretty useful stuff, that I was able to use at work. Today I spent my time testing out the endpoints I had created with Postman and making sure the DB updated properly for each request. 
 

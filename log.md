@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16 April 3-4, 2018
+
+**Today's Progress**: Spent the 3rd reading some more about recent updates to Javascript. Actually learned some pretty useful stuff, that I was able to use at work. Today I spent my time testing out the endpoints I had created with Postman and making sure the DB updated properly for each request. 
+
+**Thoughts:**: I really need to add a layer of data validation to the back end so the user doesn't send in junk data. In a happy-path scenario everything is working as expected now and I will be ready to wire up the UI to the endpoints finally tomorrow. After I have all of the MVP todo logic working I plan to start working on user creation and authentication, which really is a different project entirely. Should be fun to dig into that. I've also started thinking about projects to do once I'm content with my progress on this current one. I'd like to look into webpack and babel, and also start a functional programming project. Other than that I would like to continue working on bots that I have started in the past, and I would also like to start contributing to some open source projects. Lots of stuff to do! I'm absolutely sure I can fill up 100 days!
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
+
 ### Day 16 April 2, 2018
 
 **Today's Progress**: Create remaining database calls on server side. Will test them out tomorrow. 

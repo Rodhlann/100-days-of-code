@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19 April 5, 2018
+
+**Today's Progress**: Not much. Got the Add endpoint working, so the user can add live todos, but have been struggling to get the update endpoint working. It looks like the service method is only being called half of the time, which I'm sure has to do with how I've set up the UI controller for what I'm doing. I would like to do a small refactor when adding new todos so that the user adds a todo locally and it opens for them in an "edit" view, but only saves once they have finished editing it and pressed the save button. 
+
+**Thoughts:**: Rolling back on to not liking Angular 4 that much. Every time I jump back into the UI I just end up wishing I had done the entire thing with React. Finding myself increasingly exhausted with this project. I really want to finish it up over the next few days so I can move on to something else, but if I want to add User/Credential workflows it's going to take me at least another week or 2 with the slow crawl of a pace I've been at for the last few days. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo/tree/development
+
 ### Day 17-18 April 3-4, 2018
 
 **Today's Progress**: Spent the 3rd reading some more about recent updates to Javascript. Actually learned some pretty useful stuff, that I was able to use at work. Today I spent my time testing out the endpoints I had created with Postman and making sure the DB updated properly for each request. 

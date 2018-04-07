@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19-20 April 6-7, 2018
+
+**Today's Progress**: Spent yesterday working extra late, so all of my coding was work related, which isn't super great. But today I've been banging my head against Angular and trying to figure out why my `@Output()`'s aren't working properly. Really frustrating, but I have reached out to other Angular devs to see if they can help me out
+
+**Thoughts:**: Currently very frustrated with Angular and how un-intuitive it can be sometimes. Obviously the issue that I'm having is purely lack of knowledge, but it's still incredibly difficult to sit down to code for an hour and hardly accomplish anything at all. Definitely my least favorite type of "productivity" time
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 19 April 5, 2018
 
 **Today's Progress**: Not much. Got the Add endpoint working, so the user can add live todos, but have been struggling to get the update endpoint working. It looks like the service method is only being called half of the time, which I'm sure has to do with how I've set up the UI controller for what I'm doing. I would like to do a small refactor when adding new todos so that the user adds a todo locally and it opens for them in an "edit" view, but only saves once they have finished editing it and pressed the save button. 

@@ -4,6 +4,8 @@
 
 **Today's Progress**: Spent yesterday working extra late, so all of my coding was work related, which isn't super great. But today I've been banging my head against Angular and trying to figure out why my `@Output()`'s aren't working properly. Really frustrating, but I have reached out to other Angular devs to see if they can help me out
 
+Pt 2: Worked around the issue I was having with the `@Output()`'s not registering, and was able to get all of my current endpoints working. The user can now update/add/delete/complete a Todo and have the change persist to the DB! 
+
 **Thoughts:**: Currently very frustrated with Angular and how un-intuitive it can be sometimes. Obviously the issue that I'm having is purely lack of knowledge, but it's still incredibly difficult to sit down to code for an hour and hardly accomplish anything at all. Definitely my least favorite type of "productivity" time
 
 **Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development

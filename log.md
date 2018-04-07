@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 19-20 April 6-7, 2018
+### Day 20-21 April 6-7, 2018
 
 **Today's Progress**: Spent yesterday working extra late, so all of my coding was work related, which isn't super great. But today I've been banging my head against Angular and trying to figure out why my `@Output()`'s aren't working properly. Really frustrating, but I have reached out to other Angular devs to see if they can help me out
 

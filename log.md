@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22-23 April 8-9, 2018
+
+**Today's Progress**: Finally figured out the issue with the `@Output()`'s for the Angular app. After much frustration it turned out that I had just put the `*ngFor` in a `<ul>` instead of a `<div>` which angular didn't like. Also started working on unit tests! Exciting
+
+**Thoughts:**: JS unit testing continues to prove itself a major pain. I understand why it's so complicated, but I often feel that BDD, which is extremely popular right now, adds an extra layer of complexity over what is truly needed. Might just be the frameworks though. Overall I'm very happy with how far I've come with this app and can't wait to continue working on it now that I've resolved that stupid angular issue...
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 20-21 April 6-7, 2018
 
 **Today's Progress**: Spent yesterday working extra late, so all of my coding was work related, which isn't super great. But today I've been banging my head against Angular and trying to figure out why my `@Output()`'s aren't working properly. Really frustrating, but I have reached out to other Angular devs to see if they can help me out

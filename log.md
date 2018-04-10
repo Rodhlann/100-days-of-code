@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24 April 10, 2018
+
+**Today's Progress**: Spent more time learning how to write Jasmine unit tests. A little frustration just from not reading in to issues well enough, soon enough, but I ended up getting all the basics figured out. All base tests complete, starting to write actual test cases and some future test cases for TDD. 
+
+**Thoughts:**: This is the first time I've willingly participated in writing tests for my own code, so it's interesting to actually dig into that. I would really like to try TDD for the user workflow of the app moving forward. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 22-23 April 8-9, 2018
 
 **Today's Progress**: Finally figured out the issue with the `@Output()`'s for the Angular app. After much frustration it turned out that I had just put the `*ngFor` in a `<ul>` instead of a `<div>` which angular didn't like. Also started working on unit tests! Exciting

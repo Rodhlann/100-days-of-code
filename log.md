@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25 April 11, 2018
+
+**Today's Progress**: Wrote the unit tests for the Todo component. Other than one or two small things I feel like I'm getting the hang out how to write some basic tests. I'm sure there's still a lot to learn, but at least I'm making progress!
+
+**Thoughts:**: I think that I've written some hard to test code, but my lack of knowledge of Angular and the best practices are making figuring out what's right and wrong difficult. I think next steps might include burning through some of the more related Angular docs to try and figure out if I can be improving my code at all. Going to need to be sharp on my best practices if I want to write good code for this new job. 
+
+**Link to work:**: https://github.com/Rodhlann/HyperTodo-UI/tree/development
+
 ### Day 24 April 10, 2018
 
 **Today's Progress**: Spent more time learning how to write Jasmine unit tests. A little frustration just from not reading in to issues well enough, soon enough, but I ended up getting all the basics figured out. All base tests complete, starting to write actual test cases and some future test cases for TDD. 
